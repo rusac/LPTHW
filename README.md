@@ -1,0 +1,2 @@
+# LPTHW
+LearnPythonTheHardWay-Exercises
